@@ -13,6 +13,8 @@ renv::restore(prompt = FALSE)
 
 rmarkdown::render("CHILKO_BLTR_VPS.Rmd", clean=TRUE, envir=new.env())
 
+5) Open CHILKO_BLTR_VPS.Rmd and follow instructions within to replicate results
+
 
 ## License and Availability
 
