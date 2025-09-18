@@ -1,0 +1,6 @@
+Fish_ID,ID,Tag_Model,Tag_Serial_No,AcousticID,Tag_Code_Space,Tag_Activation_Date,Tag_Life_Days,Species,Capture_Lat,Capture_Long,FL_m,Mass_kg,TL_m,Release_Location,Release_Site,Release_Lat,Release_Long,UTC_Release_DateTime
+BT26,t26,V16-3x,1196737,19561,A69-1601,NA,405,Bull trout,51.62075,-124.14473,61,3,62,"Chilko Lake, British Columbia, Canada",chilko_river,51.62075,-124.14473,2015-04-19T09:00:00Z
+BT27,t27,V16-3x,1196735,19559,A69-1601,NA,405,Bull trout,51.62075,-124.14473,60,2.8,62,"Chilko Lake, British Columbia, Canada",chilko_river,51.62075,-124.14473,2015-04-19T09:00:00Z
+BT28,t28,V16-3x,1196732,19556,A69-1601,NA,405,Bull trout,51.62075,-124.14473,68,3.6,71,"Chilko Lake, British Columbia, Canada",chilko_river,51.62075,-124.14473,2015-04-19T09:00:00Z
+BT29,t29,V16-3x,1196736,19560,A69-1601,NA,405,Bull trout,51.62075,-124.14473,65,3.8,67,"Chilko Lake, British Columbia, Canada",chilko_river,51.62075,-124.14473,2015-04-19T09:00:00Z
+BT30,t30,V16-3x,1196754,19578,A69-1601,NA,405,Bull trout,51.619423,-124.143165,65,3.1,67,"Chilko Lake, British Columbia, Canada",chilko_river,51.619423,-124.143165,2015-04-29T09:00:00Z
