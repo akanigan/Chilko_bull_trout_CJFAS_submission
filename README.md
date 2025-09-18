@@ -4,12 +4,12 @@
 
 ### Requirements
 - R (≥ 4.3 recommended). Tested on macOS (ARM). Should work on Windows/Linux.
-- RStudio is recommended (it bundles Pandoc). If you use base R GUI, please install Pandoc separately.
+- RStudio (≥ 2025.05.0+496) is recommended (it bundles Pandoc). If you use base R GUI, please install Pandoc separately.
 
 ### Steps
 
 1) Download this repository as a ZIP and unzip it (do not alter the folder structure)
-2) Open a fresh R session (don't load any .RData files). In R Studio: *File -> Open project in new session...* and select the unzipped project folder from where it was downloaded
+2) Open a fresh R session (don't load any .RData files). In R Studio: *File -> Open Project in New Session...* and select the unzipped project folder from where it was downloaded
 3) In the console, run:
 - install.packages("renv")
 - renv::restore(prompt = FALSE)
