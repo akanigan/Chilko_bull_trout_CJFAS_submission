@@ -8,7 +8,7 @@
 
 ### Steps
 
-1) Download this repository as a ZIP and unzip it (do not alter the folder structure)
+1) From the **Code** tab, download this repository as a ZIP and unzip it (do not alter the folder structure)
 2) Open a fresh R session. In R Studio: *File -> Open Project in New Session...* and select the unzipped project folder from the location it was downloaded
 3) In the console, run:
 - install.packages("renv")
