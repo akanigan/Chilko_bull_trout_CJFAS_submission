@@ -1,18 +1,23 @@
 # Chilko_bull_trout_CJFAS_submission
 
-## Reproducible environment
+## Reproducible environment (for reviewers)
 
-1) Install R (≥ 4.5.0 GUI 1.81 Big Sur ARM build)
-2) Download repository as a zip folder
-3) Open R or R Studio and open the project in a new session (File > Open project in new session)
-4) In R, run:
+### Requirements
+- R (≥ 4.3 recommended). Tested on macOS (ARM). Should work on Windows/Linux.
+- RStudio is recommended (it bundles Pandoc). If you use base R GUI, please install Pandoc separately.
+
+### Steps
+
+1) Download this repository as a ZIP and unzip it (do not alter the folder structure)
+2) Open a fresh R session (don't load any .RData files). In R Studio: *File -> Open project in new session...* and select the unzipped project folder from where it was downloaded
+3) In the console, run:
 - install.packages("renv")
 - renv::restore(prompt = FALSE)
 - rmarkdown::render("CHILKO_BLTR_VPS.Rmd", clean=TRUE, envir=new.env())
 
-*this will create an ouput file, though it will not contain results as the code is too computationally demanding to run during a knit*
+This performs a test knit and produces an output file; however, the knit does not recompute analyses (see next step).
 
-5) Open CHILKO_BLTR_VPS.Rmd and follow instructions within to replicate results
+4) Open CHILKO_BLTR_VPS.Rmd from the project files directory and follow instructions within to replicate results
 
 
 ## License and Availability
