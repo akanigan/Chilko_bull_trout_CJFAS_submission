@@ -9,6 +9,9 @@
 - install.packages("renv")
 - renv::restore(prompt = FALSE)
 - rmarkdown::render("CHILKO_BLTR_VPS.Rmd", clean=TRUE, envir=new.env())
+
+*this will create an ouput file, though it will not contain results as the code is too computationally demanding to run during a knit*
+
 5) Open CHILKO_BLTR_VPS.Rmd and follow instructions within to replicate results
 
 
