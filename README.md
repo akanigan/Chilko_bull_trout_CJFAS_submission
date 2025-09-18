@@ -4,8 +4,7 @@
 
 The code and data provided here are made available **solely for the purposes of peer review** of the associated manuscript:
 
-> "Diel foraging behaviours of bull trout (Salvelinus confluentus) are altered by an annually deployed sockeye salmon (Oncorhynchus nerka) smolt counting fence"
-> Manuscript no. cjfas-2025-0306
+> cjfas-2025-0306: "Diel foraging behaviours of bull trout (<i>Salvelinus confluentus</i>) are altered by an annually deployed sockeye salmon (<i>Oncorhynchus nerka</i>) smolt counting fence"
 
 They are **not licensed for redistribution or reuse** at this stage.
 
