@@ -6,13 +6,9 @@
 2) Download repository as a zip folder
 3) Open R or R Studio and open the project in a new session
 4) In R, run:
-
-install.packages("renv")
-
-renv::restore(prompt = FALSE)
-
-rmarkdown::render("CHILKO_BLTR_VPS.Rmd", clean=TRUE, envir=new.env())
-
+  install.packages("renv")
+  renv::restore(prompt = FALSE)
+  rmarkdown::render("CHILKO_BLTR_VPS.Rmd", clean=TRUE, envir=new.env())
 5) Open CHILKO_BLTR_VPS.Rmd and follow instructions within to replicate results
 
 
